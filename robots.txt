@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://snowrider3dd.github.io/sitemap.xml
+Sitemap: https://house-of-hazards.bitbucket.io/sitemap.xml
 
 # Disallow admin and cache directories (if any)
 Disallow: /admin/
